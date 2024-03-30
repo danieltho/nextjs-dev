@@ -40,3 +40,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 9. :wq! //save and exit
 10. npm run build
 11. listo!!!!  
+
+- [x] No editar los archivos desde el editor de plesk.  Dan fallos!!!!
+
