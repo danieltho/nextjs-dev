@@ -28,7 +28,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
    Package Manager: npm  
    Document Root: /httpdocs/.next/static    
    Application Mode: production
-   Application URL: http://romantic-kare.82-223-55-172.plesk.page
+   Application URL: http://{xxxx}.plesk.page
    Application Root: /httpdocs 
    Application Startup File: node_modules/.bin/next
    ```
